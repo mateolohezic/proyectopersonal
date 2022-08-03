@@ -1,0 +1,36 @@
+body{
+    background: url(./body.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+
+}
+.fondonavbar{
+    background: url(./navbar.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    background-size: cover;
+}
+.logonavbar{
+    height: 60px;
+    width: 60px;
+}
+
+.FAQ{
+    color: black;
+}
+
+.FAQ:hover{
+    color: rgb(82, 82, 82);
+}
+    
+.RS{
+    color: black;
+}
+        
+.RS:hover{
+    color: rgb(82, 82, 82);
+}

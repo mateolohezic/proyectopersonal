@@ -1,0 +1,20 @@
+@media (min-width:992px){
+
+.formulario{
+width: 40%;
+}
+}
+
+@media (max-width:412px){
+
+.formulario{
+width: 90%;
+}
+}
+
+@media (min-width:413px) and (max-width:991px){
+
+.formulario{
+width: 70%;
+}
+}
